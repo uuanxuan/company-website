@@ -1,0 +1,138 @@
+@font-face {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 100;
+  src: url("./assets/fonts/QGYvz_MVcBeNP4NJtEtq.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 200;
+  src: url("./assets/fonts/QGYvz_MVcBeNP4NJtEtq.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 300;
+  src: url("./assets/fonts/QGYvz_MVcBeNP4NJtEtq.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./assets/fonts/QGYvz_MVcBeNP4NJtEtq.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 500;
+  src: url("./assets/fonts/QGYvz_MVcBeNP4NJtEtq.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 600;
+  src: url("./assets/fonts/QGYvz_MVcBeNP4NJtEtq.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./assets/fonts/QGYvz_MVcBeNP4NJtEtq.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 800;
+  src: url("./assets/fonts/QGYvz_MVcBeNP4NJtEtq.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "open_sans";
+  src: url("./assets/fonts/OpenSans-Italic-webfont.f42641eed834f7b97a9499362c6c8855.woff")
+    format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "open_sans";
+  src: url("./assets/fonts/OpenSans-Light-webfont.45b47f3e9c7d74b80f5c6e0a3c513b23.woff")
+    format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "open_sans";
+  src: url("./assets/fonts/OpenSans-LightItalic-webfont.b553da506077488bc65289e10841d527.woff")
+    format("woff");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "open_sans";
+  src: url("./assets/fonts/OpenSans-Regular-webfont.79515ad0788973c533405f7012dfeccd.woff")
+    format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/*!
+* Font Awesome Free 5.15.3 by @fontawesome - https://fontawesome.com
+* License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+*/
+
+@font-face {
+  font-family: Font Awesome\ 5 Free;
+  font-style: normal;
+  font-weight: 400;
+  src: url("./assets/fonts/fa-regular-400.f0f8230116992e521526097a28f54066.woff2")
+    format("woff2");
+}
+
+/*!
+* Font Awesome Free 5.15.3 by @fontawesome - https://fontawesome.com
+* License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+*/
+
+@font-face {
+  font-family: Font Awesome\ 5 Free;
+  font-style: normal;
+  font-weight: 900;
+  src: url("./assets/fonts/fa-solid-900.e8a427e15cc502bef99cfd722b37ea98.woff2")
+    format("woff2");
+}
+
+
+/*!
+* Font Awesome Free 5.15.3 by @fontawesome - https://fontawesome.com
+* License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+*/
+
+@font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;src:url('./assets/fonts/fa-brands-400.f7307680c7fe85959f3ecf122493ea7d.woff2')format("woff2")}
