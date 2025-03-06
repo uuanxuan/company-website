@@ -136,3 +136,12 @@
 */
 
 @font-face{font-family:Font Awesome\ 5 Brands;font-style:normal;font-weight:400;src:url('./assets/fonts/fa-brands-400.f7307680c7fe85959f3ecf122493ea7d.woff2')format("woff2")}
+
+
+@font-face {
+  font-family: entypo;
+  src: url(./assets/fonts/entypo-fontello.56c0334a3129bf39b25e0d4e67fcf233.woff) format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap
+}
